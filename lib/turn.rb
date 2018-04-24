@@ -37,7 +37,7 @@ end
 
 def turn 
 #ask for input
-  puts "Please enter 1-9:"
+  print "Please enter 1-9:"
 #get input
   input = gets.strip
 #convert input to index
